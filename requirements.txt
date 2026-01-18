@@ -1,1 +1,3 @@
 # required packages
+pandas==2.2.2 # for data analysis
+streamlit== 1.50.0 # for Python app building
